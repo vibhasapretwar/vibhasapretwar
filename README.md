@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhasapretwar" alt="vibhasapretwar" /></a> </p>
 
-- 🔭 I’m currently working on **Investment Tracking System **
+- 🔭 I’m currently working on **Investment Tracking System**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, GraphQL, Cloud (AWS)**
 
 - 👯 I’m looking to collaborate on [Open Source Web Projects -](https://github.com/vibhasapretwar)
 
-- 🤝 I’m looking for help with **Backend Optimization & System Design **
+- 🤝 I’m looking for help with **Backend Optimization & System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vibhasapretwar](https://github.com/vibhasapretwar)
 
